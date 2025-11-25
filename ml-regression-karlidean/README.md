@@ -20,3 +20,5 @@
    7. Add - Commit - Push
 2. Completing the Project
    1. Outlined Project Sections in Jupyter Notebook
+   2. Completed Section 1
+   3. Completed Section 2
