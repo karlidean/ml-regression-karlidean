@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 requires = ["setuptools>=80", "wheel"]
 
 [project]
-authors = [{name = "Denise Case"}] # TODO: Change to YOUR name (ownership matters)
+authors = [{name = "Karli Dean"}]
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.12",
@@ -31,10 +31,10 @@ dependencies = [ # fmt: off
 ]  # fmt: on
 
 [project.urls]
-Documentation = "https://denisecase.github.io/pro-analytics-02-starter/"
-Homepage = "https://github.com/denisecase/pro-analytics-02-starter"
-Issues = "https://github.com/denisecase/pro-analytics-02-starter/issues"
-Repository = "https://github.com/denisecase/pro-analytics-02-starter"
+Documentation = "https://karlidean.github.io/ml-regression-karlidean/"
+Homepage = "https://github.com/karlidean/ml-regression-karlidean"
+Issues = "https://github.com/karlidean/ml-regression-karlidean/issues"
+Repository = "https://github.com/karlidean/ml-regression-karlidean"
 
 [project.optional-dependencies]
 dev = [
