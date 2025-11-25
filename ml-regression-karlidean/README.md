@@ -18,3 +18,5 @@
    5. Added new markdown files for final.
    6. Updated README.md
    7. Add - Commit - Push
+2. Completing the Project
+   1. Outlined Project Sections in Jupyter Notebook
