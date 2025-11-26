@@ -1,11 +1,11 @@
 # Project 6 - Regression (Final)
 
 ## Directory:
-- [My Project Notebook](link)
-- [My Peer Review](link)
-- [My Project README.md](link)
-- [My Project Summary](link)
-- [My Project Data](link)
+- [My Project Notebook](https://github.com/karlidean/ml-regression-karlidean/blob/main/ml-regression-karlidean/regression_karlidean.ipynb)
+- [My Peer Review](https://github.com/karlidean/ml-regression-karlidean/blob/main/ml-regression-karlidean/PEER_REVIEW.md)
+- [My Project README.md](https://github.com/karlidean/ml-regression-karlidean/blob/main/ml-regression-karlidean/README.md)
+- [My Project Summary](https://github.com/karlidean/ml-regression-karlidean/blob/main/ml-regression-karlidean/PROJECT_SUMMARY.md)
+- [My Project Data](https://github.com/karlidean/ml-regression-karlidean/blob/main/data/insurance.csv)
 
 1. Setting up the project
    1. Used Dr. Case's example repo as a template/foundation
@@ -26,3 +26,5 @@
    5. Completed Section 4
    6. Completed Section 5
    7. Completed Section 6
+   8. Completed Project Introduction
+3. Updated README.md with proper links and directory

@@ -1,3 +1,7 @@
+# Project 6 - Final
+## Where Do I Find This?
+[FINAL JUPYTER NOTEBOOK AND MARKDOWNS](https://github.com/karlidean/ml-regression-karlidean/tree/main/ml-regression-karlidean)
+
 # Pro Analytics 02 Python Starter Repository
 
 > Use this repo to start a professional Python project.
