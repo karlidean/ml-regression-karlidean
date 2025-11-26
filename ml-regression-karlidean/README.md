@@ -29,3 +29,4 @@
    8. Completed Project Introduction
 3. Updated README.md with proper links and directory
 4. Completed Project Summary file
+5. Completed Project Peer Review file
