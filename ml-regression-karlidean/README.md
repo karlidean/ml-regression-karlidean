@@ -22,3 +22,7 @@
    1. Outlined Project Sections in Jupyter Notebook
    2. Completed Section 1
    3. Completed Section 2
+   4. Completed Section 3
+   5. Completed Section 4
+   6. Completed Section 5
+   7. Completed Section 6
